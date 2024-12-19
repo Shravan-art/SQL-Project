@@ -3,7 +3,8 @@ SQL Projects ![icons8-mysql-logo-48](https://github.com/Shravan-art/assets/14973
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
-## Analyzing Employee Trends
+## Analyzing Employee Trends ![130-1300238_avatar-customer-hd-png-download](https://github.com/user-attachments/assets/12515efe-b99f-46ad-b038-11e350d50ef1)
+
 
  [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) 
 
