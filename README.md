@@ -1,4 +1,4 @@
-SQL Projects ! <img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"> 
+# 𝐒𝐐𝐋 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ! <img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"> 
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
