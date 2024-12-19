@@ -2,7 +2,10 @@
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
-## Analyzing Employee Trends ![130-1300238_avatar-customer-hd-png-download](https://github.com/user-attachments/assets/12515efe-b99f-46ad-b038-11e350d50ef1)
+
+<h1 align="center"> 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐓𝐫𝐞𝐧𝐝𝐬 </h1>
+
+ <h1 align="center"> ![130-1300238_avatar-customer-hd-png-download](https://github.com/user-attachments/assets/12515efe-b99f-46ad-b038-11e350d50ef1) </h1>
 
 
  [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) 
