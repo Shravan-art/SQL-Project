@@ -1,6 +1,6 @@
 # 𝐒𝐐𝐋 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ! <img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"> 
 
-These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
+These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. These tasks exhibit my abilities in data investigation, and analysis.
 
 
 <h1 align="center"> 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐓𝐫𝐞𝐧𝐝𝐬 </h1>
