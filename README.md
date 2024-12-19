@@ -1,5 +1,5 @@
 SQL Projects ![icons8-mysql-logo-48](https://github.com/Shravan-art/assets/149737403/95180ab6-019c-4ba1-9165-e9449cb95614)
-
+![MySQL](https://img.shields.io/badge/MySQL-0075C2?style=for-the-badge&logo=MySQL&logoColor=white)
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
