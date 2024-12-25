@@ -8,8 +8,6 @@ These projects demonstrate my proficiency in SQL and my capacity to analyze comp
 ![130-1300238_avatar-customer-hd-png-download](https://github.com/user-attachments/assets/12515efe-b99f-46ad-b038-11e350d50ef1)
 
 
- [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) 
-
 ## Project Description 📚
 
 This project involved performing extensive analysis on HR employee data to uncover insights and trends. The data contained information on employees across departments, including demographics, job roles, satisfaction, attrition and more.
